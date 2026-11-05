@@ -46,7 +46,7 @@ Runtime utility for **[Loftia](https://store.steampowered.com/app/2320980/Loftia
 |---|---|
 | **Loftia PC Utility (44)** | [darktrainer.com](https://darktrainer.com/loftia-cheat) |
 | **Game on Steam** | [Loftia — Steam](https://store.steampowered.com/app/2320980/Loftia/) |
-| **Full Option List** | [Full Option List on Gist](#) |
+| **Full Option List** | [Full Option List on Gist](https://gist.github.com/squadlarvajack/19bbb287fe939162c7a37f3b67b2ed27) |
 
 ---
 
